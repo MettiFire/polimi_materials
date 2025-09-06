@@ -1,0 +1,15 @@
+Istruzioni:
+
+- Installare MySQL (https://dev.mysql.com/downloads/mysql/)
+
+- Al termine dell'installazione (di solito in automatico) verrà eseguito MySQL Configurator. In alternativa eseguitelo voi. Lasciate le configurazioni come sono e scegliete una password quando ve lo richiede. Se volete, scaricate anche i sample datasets che vi suggerisce.
+
+- Installare MySQL Workbench (https://dev.mysql.com/downloads/workbench/)
+
+- Scaricare il file del database (in WeBeep /Lucidi Esercitazioni/Materiale Aggiuntivo)
+
+- Una volta aperto MySQL Workbench, aprire la Local Instance (di solito sulla porta 3306), verranno richiesti utente/pw settati durante l'installazione
+
+- Dal menu: Server -> Data Import -> nell'area "Import Options" area selezionare l'opzione "Import from Self-Contained File" e inserire il path al file .sql sulla vostra macchina. Poi andare sul tab Import Progress e cliccare Start Import in fondo a destra.
+
+- Nella colonna a sx, aggiornare la vista "SCHEMAS", poi click tasto destro sul database per impostarlo come Default Schema. 

@@ -1,0 +1,50 @@
+group: libri
+
+Autore = {
+Nome:string, Nazionalita:string
+John, uk
+Mark, italia
+Laura, germania
+Giovanna, italia
+Gianni, italia
+}
+
+Editore = {
+Nome:string, Nazione:string
+PrimoEditore, italia
+EsseEdizioni, italia
+InternationalEditor, uk
+PielleEdizioni, italia
+}
+
+Libro = {
+Titolo:string, Editore:string, Lingua:string, Anno:number
+Filosofia, PrimoEditore, it, 1999
+Economia, PrimoEditore, it, 2017
+Finanza, EsseEdizioni, de, 2020
+Matematica, EsseEdizioni, it, 2021
+Lettere, EsseEdizioni, it, 2005
+Fisica, InternationalEditor, en, 2009
+Diritto, InternationalEditor, it, 2023
+Statistica, PrimoEditore, it, 2011
+Informatica, PrimoEditore, en, 2018
+Danza, EsseEdizioni, it, 2014
+Canto, PrimoEditore, it, 2023
+Yoga, PielleEdizioni, en, 2014
+}
+
+Diritti_Autore = {
+Autore:string, Libro:string, Editore:string, Percentuale:number
+Laura, Filosofia, PrimoEditore, 42
+Laura, Matematica, EsseEdizioni, 22
+Laura, Diritto, InternationalEditor, 87
+Mark, Fisica, InternationalEditor, 41
+Mark, Finanza, InternationalEditor, 32
+Giovanna, Lettere, EsseEdizioni, 12
+John, Economia, PrimoEditore, 67
+John, Statistica, PrimoEditore, 46
+Giovanna, Informatica, PrimoEditore, 78
+Gianni, Danza, EsseEdizioni, 100
+Gianni, Canto, PrimoEditore, 79
+Gianni, Yoga, PielleEdizioni, 55
+}
