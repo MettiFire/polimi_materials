@@ -1,2 +1,14 @@
-# polimi_materials
-Study notes and exam preparations for Computer Engineering courses at Politecnico di Milano. Most content is in Italian 🇮🇹
+# Polimi Materials
+
+This repository contains study notes, summaries, slides, and exam-related material  
+from the **Bachelor’s Degree in Computer Engineering** at Politecnico di Milano.  
+
+Most of the content comes from my third year, but you can also find useful material  
+from first- and second-year courses.  
+
+⚠️ Disclaimer:  
+- Not all the material is my own work: you may find some **slides** and **exam texts** from Polimi.  
+- These resources are shared only for educational purposes.  
+- I apologize in advance if you occasionally stumble upon doodles or funny comments in my notes ahaha 😅  
+
+📌 Most of the content is in **Italian**, since the courses were mainly taught in Italian.  
