@@ -1,6 +1,6 @@
 # Polimi Materials 📚
 
-This repository contains study notes, summaries, slides, and exam-related material from the **Bachelor’s Degree in Computer Engineering** at Politecnico di Milano.  
+This repository contains study notes, summaries, slides, and exam-related material from the **Bachelor’s Degree in Computer Science and Engineering** at Politecnico di Milano.  
 
 Most of the content comes from my third year, but you can also find useful material from first- and second-year courses.  
 
